@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/akshatarya/DSA/LOOPs/Counting1_100'
+relocations:     []
+...
